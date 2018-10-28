@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="62px" viewBox="0 0 38 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Desktop-HD" transform="translate(-159.000000, -760.000000)" stroke-width="2" stroke="#282929" fill="#FFFFFF">
+            <g id="Group-8" transform="translate(158.000000, 518.000000)">
+                <g id="Group-2">
+                    <path d="M2.0857808,273 C2.04190638,273.820555 2.33336449,274.655695 2.96015511,275.282486 L29.5563492,301.87868 C30.7279221,303.050253 32.627417,303.050253 33.7989899,301.87868 L33.7989899,301.87868 L36.7175144,298.960155 C37.8890873,297.788582 37.8890873,295.889087 36.7175144,294.717514 L15,273 L36.7175144,251.282486 C37.8890873,250.110913 37.8890873,248.211418 36.7175144,247.039845 L36.7175144,247.039845 L33.7989899,244.12132 L33.7989899,244.12132 C32.627417,242.949747 30.7279221,242.949747 29.5563492,244.12132 L29.5563492,244.12132 L2.96015511,270.717514 C2.33336449,271.344305 2.04190638,272.179445 2.0857808,273 Z" id="arrow"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
